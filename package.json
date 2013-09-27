@@ -1,0 +1,17 @@
+{
+    "name": "pay", "version": "0.0.1",
+    "description": "Simple, unobtrusive payments for Node.js",
+    "keywords": ["express", "connect", "pay", "payment", "gateway"],
+
+    "license": "MIT",
+    "repository": {"type":"git", "url":"git://github.com/paymentsjs/payments.git"},
+
+    "scripts": {
+        "test": "mocha"
+    },
+
+    "devDependencies": {
+        "mocha": "latest",
+        "chai": "latest"
+    }
+}
